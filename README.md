@@ -1,1 +1,1 @@
-My Portfolio made by using HTML AND CSS only 
+My Portfolio made by using HTML AND CSS only.
